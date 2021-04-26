@@ -11,7 +11,7 @@ function App() {
       <h2>
         Imagem Servidor:
       </h2>
-      <img src="http://localhost:8000/images?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshow-room-dev-project.appspot.com%2Fo%2F1615248209995_imagem2.png?alt%3Dmedia%26token%3D828e75e5-9dd1-4b93-99c5-0f220a61d1dc" alt="Imagem Servidor"/>
+      <img src="https://image-server-test.herokuapp.com/images?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fshow-room-dev-project.appspot.com%2Fo%2F1615248209995_imagem2.png?alt%3Dmedia%26token%3D828e75e5-9dd1-4b93-99c5-0f220a61d1dc" alt="Imagem Servidor"/>
 
     </div>
   );
